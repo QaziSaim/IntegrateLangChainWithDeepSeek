@@ -89,7 +89,7 @@ print(f"Generated Move: {best_move}")
 Here are some visuals of the project in action:  
 
 ### **1. Custom Prompt Engine**  
-![Prompt Engine Screenshot](https://via.placeholder.com/800x400.png?text=Prompt+Engine+UI)  
+![Prompt Engine Screenshot](mainterm.png)  
 
 ### **2. Tic-Tac-Toe Game**  
 ![Tic-Tac-Toe Screenshot](https://via.placeholder.com/800x400.png?text=Tic-Tac-Toe+Game+UI)  
