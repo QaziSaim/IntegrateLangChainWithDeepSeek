@@ -98,7 +98,7 @@ Here are some visuals of the project in action:
 
 ## **GitHub Repository**  
 For more details, check out the full code on GitHub:  
-👉 [GitHub Repo Link](https://github.com/your-username/your-repo-name)  
+👉 [GitHub Repo Link](https://github.com/QaziSaim/IntegrateLangChainWithDeepSeek.git)  
 
 ---
 
