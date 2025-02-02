@@ -92,7 +92,7 @@ Here are some visuals of the project in action:
 ![Prompt Engine Screenshot](mainterm.png)  
 
 ### **2. Tic-Tac-Toe Game**  
-![Tic-Tac-Toe Screenshot](https://via.placeholder.com/800x400.png?text=Tic-Tac-Toe+Game+UI)  
+![Tic-Tac-Toe Screenshot](tictactoe.png)  
 
 ---
 
